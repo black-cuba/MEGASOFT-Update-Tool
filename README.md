@@ -22,6 +22,4 @@ Su objetivo es simplificar el proceso de actualización para usuarios principian
 ---
 
 ## 📦 Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/TUUSUARIO/MEGASOFT-Update-Tool.git
+1. Descarga el .exe y ejecutalo como administrador
